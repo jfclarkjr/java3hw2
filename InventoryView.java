@@ -289,7 +289,7 @@ public class InventoryView implements Viewable
 		// Add the initial ComboBox Panel and make the frame visible
 		frame.add(userChoiceComboPanel);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frame.setSize(400,500);
+		frame.setSize(400,450);
 		frame.setVisible(true);
 		
 	}
